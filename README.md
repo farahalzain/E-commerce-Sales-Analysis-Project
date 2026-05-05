@@ -1,4 +1,4 @@
-# E-commerce-Sales-Analysis-Project
+# E-commerce-Sales-Analysis-Project 🛒
 
 ## Project Overview
 
