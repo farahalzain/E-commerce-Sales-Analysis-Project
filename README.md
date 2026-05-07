@@ -115,11 +115,22 @@ K-Means clustering was applied on RFM values to identify hidden customer groups 
 Returned transactions were analyzed to calculate return rate and identify the most returned products.
 
 ---
+## Power BI Dashboard
+
+This dashboard was designed to provide interactive business insights into sales performance, customer behavior, product demand, and geographic revenue distribution using Power BI.
+
+Cleaned Dataset:
+The processed dataset used for analysis and dashboard creation is available via Google Drive due to GitHub file size limitations.
+
+[Access Dataset Here](https://docs.google.com/spreadsheets/d/1Su37iUhNnpIbLY-O5BZOP81bnACUhRZ4/edit?usp=sharing&ouid=104893659902513490883&rtpof=true&sd=true)
+
 ## Dashboard Pages
 1. Sales Overview
 2. Product Analysis
 3. Customer Analysis
 4. Geographic Analysis
+   
+---
 
 ## Key Insights
 
