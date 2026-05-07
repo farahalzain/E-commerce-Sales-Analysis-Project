@@ -51,6 +51,8 @@ The dataset contains **541,909 records** and **8 columns** representing online r
 - Seaborn
 - Scikit-learn
 - Google Colab
+- Power BI
+- DAX
 
 ---
 
@@ -113,6 +115,11 @@ K-Means clustering was applied on RFM values to identify hidden customer groups 
 Returned transactions were analyzed to calculate return rate and identify the most returned products.
 
 ---
+## Dashboard Pages
+1. Sales Overview
+2. Product Analysis
+3. Customer Analysis
+4. Geographic Analysis
 
 ## Key Insights
 
